@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Farben erraten</string>
+
+    //Game
+    <string name="score">Score</string>
+    <string name="wrong">Falsch: </string>
+    <string name="right">Richtig: </string>
+    <string name="restart">"Restart"</string>
+    <string name="game_over">Spiel vorbei</string>
+    <string name="start_game">Spiel Starten</string>
+    <string name="restart_game">Spiel neu starten</string>
+    <string name="restart_button_id">"btn_restart"</string>
+
+    // Colors
+    <string name="red">"Rot"</string>
+    <string name="blue">"Blau"</string>
+    <string name="pink">"Pink"</string>
+    <string name="lila">"Lila"</string>
+    <string name="grey">"Grau"</string>
+    <string name="green">"Grün"</string>
+    <string name="yellow">"Gelb"</string>
+    <string name="brown">"Braun"</string>
+    <string name="black">"Schwarz"</string>
+    <string name="orange">"Orange"</string>
+</resources>
